@@ -14,7 +14,7 @@ spec:
     spec:
       containers:
       - name: web-container
-        image: haidertelusko/my-web-app:latest
+        image: shaillen/my-web-app:latest
         ports:
         - containerPort: 8080
 ---
